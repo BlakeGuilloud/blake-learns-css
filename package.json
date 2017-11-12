@@ -1,5 +1,6 @@
 {
   "name": "blake-learns-css",
+  "description": "Blake learns CSS",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Blake Guilloud <blake.guilloud@gmail.com>",
